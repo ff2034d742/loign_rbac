@@ -6,14 +6,15 @@
     <br>
 </p>
 
-Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-developing complex Web applications with multiple tiers.
+Es un sistema de logeo básico para iniciar cualquier proyecto...,con YII2, creando usuarios con niveles de acceso. para en Frontend y Backend.... revisalo y dame algunas sugerencias para mejorar este sistema.
 
-The template includes three tiers: front end, back end, and console, each of which
-is a separate Yii application.
+Yii 2 Adved Project Template es una aplicación esqueleto [Yii 2] (http://www.yiiframework.com/) mejor para
+desarrollando aplicaciones web complejas con múltiples niveles.
 
-The template is designed to work in a team development environment. It supports
-deploying the application in different environments.
+La plantilla incluye tres niveles: front end, back end y consola, cada uno de los cuales
+es una aplicación separada de Yii.
+
+
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
